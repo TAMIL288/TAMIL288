@@ -36,7 +36,7 @@ I'm a motivated 2nd-year IT student passionate about building **responsive web a
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JavaS-F7DF1E?style=flat-square&logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=java&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 **Frontend**
