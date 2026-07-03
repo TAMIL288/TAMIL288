@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a motivated 2nd-year IT student passionate about building **responsive web applications**, **AI-powered tools**, and clean, intuitive interfaces. I enjoy solving real-world problems through code and design — from full-stack backends to Blender 3D renders.
+I'm a motivated 4th-year IT student passionate about building **responsive web applications**, **AI-powered tools**, and clean, intuitive interfaces. I enjoy solving real-world problems through code and design — from full-stack backends to Blender 3D renders.
 
 - 🏆 **Felicity '25 Hackathon** — IIT Hyderabad *(one of India's premier college hackathons)*
 - 🥇 **Dr. Kalam Young Achiever Award '25** nominee — DGCT
