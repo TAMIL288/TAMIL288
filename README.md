@@ -97,15 +97,6 @@ I'm a motivated 4th-year IT student passionate about building **responsive web a
 - 🎨 **Blender: Beginner to 3D Masterclass** — Udemy
 - 🧠 **PALS Certificate of Merit** — Industry-Assisted Lecture Series on LLMs
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAMIL288&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAMIL288&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
 
 ---
 
