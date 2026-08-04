@@ -66,7 +66,7 @@ I'm a motivated 4th-year IT student passionate about building **responsive web a
 
 - Role-based access control for **Admin, Teacher, and Student**
 - Secure data access via RESTful backend
-- Built with Python · REST API · Database Management
+- Built with Python · REST API · Database Management .
 
 ---
 
