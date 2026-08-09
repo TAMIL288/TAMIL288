@@ -75,7 +75,7 @@ I'm a motivated 4th-year IT student passionate about building **responsive web a
 
 - Player profiles, match records, team stats, and batting/bowling leaderboards
 - MySQL database with **5 tables, 2 views, 10 sample players, 5 teams, 10 matches**
-- Built with REST API · . MySQL · . AI Integration
+- Built with REST API · . MySQL · . AI Integration 
 
 ---
 
@@ -102,5 +102,5 @@ I'm a motivated 4th-year IT student passionate about building **responsive web a
 
 <p align="center">
   <i>"Code it. Design it. Ship it."</i><br/>
-  <sub>Open to internships, collaborations, and interesting projects — feel free to reach out!</sub>
+  <sub>Open to internships,Working Together, collaborations, and interesting projects — feel free to reach out!</sub>
 </p>
