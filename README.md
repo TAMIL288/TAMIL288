@@ -64,7 +64,7 @@ I'm a motivated 4th-year IT student passionate about building **responsive web a
 ### 🗂️ Attendance Management System
 > Web-based system to automate student/employee attendance tracking
 
-- Role-based access control for **Admin, Teacher, and Student**
+- Role-based access control for **Admin, Teacher, and Student management**
 - Secure data access via RESTful backend
 - Built with Python · REST API · Database Management .
 
