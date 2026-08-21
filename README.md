@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack Developer · AI Integration · UI/UX Design</b><br/>
-  B.Tech Information Technology · Dhirajlal Gandhi College of Technology · 2023–2027
+  B.Tech Information Technology · Hindusthan College of Technology · 2023–2027
 </p>
 
 <p align="center">
