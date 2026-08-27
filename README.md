@@ -57,7 +57,7 @@ I'm a motivated 4th-year IT student passionate about building **responsive web a
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**Backend
+**Backend**
 ![MySQL](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
